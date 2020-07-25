@@ -1,0 +1,19 @@
+{
+  "name": "efforge-web",
+  "version": "1.0.0",
+  "description": "Efforge Web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrstexx/efforge-web.git"
+  },
+  "author": "Stefan Miljevic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrstexx/efforge-web/issues"
+  },
+  "homepage": "https://github.com/mrstexx/efforge-web#readme"
+}
